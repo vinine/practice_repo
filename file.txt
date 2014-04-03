@@ -6,4 +6,6 @@ Do some stuff to it.
 
 Change it around.
 
+THIS IS A NEW LINE
+
 The end.
