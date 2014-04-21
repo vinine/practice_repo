@@ -12,3 +12,9 @@ The end.
 Regards and now the end.
 hi
 hello again
+
+def say_hi
+  a = "hi"
+  puts "hi"
+
+end
